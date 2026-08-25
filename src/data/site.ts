@@ -10,8 +10,8 @@ import {
 } from 'lucide-react';
 
 export const SITE = {
-  name: 'Best SEO Company',
-  domain: 'bestseocampany.in',
+  name: 'SEO Growth Service',
+  domain: 'seo.growthservice.in',
   parentCompany: 'Growth Service Digital Solution Pvt. Ltd.',
   parentWebsite: 'https://growthservice.in/',
   phone: '6207300553',
@@ -25,7 +25,7 @@ export const SITE = {
     pincode: '303017',
     full: 'LG-44, JTM Mall, Jagatpura, Jaipur, Rajasthan – 303017',
   },
-  email: 'contact@bestseocampany.in',
+  email: 'contact@seo.growthservice.in',
 };
 
 export interface ServiceItem {
