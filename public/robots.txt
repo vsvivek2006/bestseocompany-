@@ -3,4 +3,4 @@ Allow: /
 Disallow: /thank-you
 Disallow: /404
 
-Sitemap: https://bestseocampany.in/sitemap.xml
+Sitemap: https://seo.growthservice.in/sitemap.xml
